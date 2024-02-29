@@ -1,6 +1,6 @@
 function Project() {
   return (
-    <div id="projects" className="relative border h-screen w-full">
+    <div id="projects" className=" h-fit w-full">
       <h1 className="text-xl text-center font-mono">Projects</h1>
       <div className="flex flex-row justify-center">
         <div className="h-44 w-40 py-2 px-3 m-5 rounded bg-gray-800 shadow">

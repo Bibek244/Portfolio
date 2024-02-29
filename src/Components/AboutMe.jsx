@@ -10,7 +10,7 @@ const AboutMe = () => {
     }, 1000); // Adjust the timeout value as needed
   };
   return (
-    <div id="aboutMe" className="border h-fit w-full">
+    <div id="aboutMe" className=" h-fit w-full">
       <h1 className="text-xl text-center font-mono">About Me</h1>
       <div className="h-40 w-full bg-slate-500 flex flex-row items-center justify-between">
         <div className="flex flex-row">

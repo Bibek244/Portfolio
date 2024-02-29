@@ -13,7 +13,7 @@ function App() {
     <div className='bg-gray-900'>
     <NavBar />
     <SideBar />
-    <div style={{ marginLeft: '16.666667%' }} >
+    <div style={{ marginLeft: '18%' }} >
     <AboutMe />
     <Skills />
     <Project/>
