@@ -3,7 +3,7 @@ function Project() {
     <div id="projects" className=" h-fit w-full">
       <h1 className="text-xl text-center font-mono">Projects</h1>
       <div className="flex flex-row justify-center">
-        <div className="h-44 w-40 py-2 px-3 m-5 rounded bg-gray-800 shadow">
+        <div className="md:h-44 md:w-40  py-2 px-3 m-5 rounded bg-gray-800 shadow sm:w-fit sm:h-fit ">
           <h2 className="text-gray-400 font-bold text-sm py-5 w-full text-left">
             Front End
           </h2>
@@ -25,7 +25,7 @@ function Project() {
             </p>
           </div>
     </div>
-           <div className="h-44 w-40 py-2 px-3 m-5 rounded bg-gray-800 shadow">
+           <div className="md:h-44 md:w-40  py-2 px-3 m-5 rounded bg-gray-800 shadow sm:w-fit sm:h-fit">
           <h2 className="text-gray-400 font-bold text-sm py-5 w-full text-left">
             Back End
           </h2>
@@ -43,7 +43,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="h-44 w-40 py-2 px-3 m-5 rounded bg-gray-800 shadow">
+        <div className="md:h-44 md:w-40  py-2 px-3 m-5 rounded bg-gray-800 shadow sm:w-fit sm:h-fit">
           <h2 className="text-gray-400 font-bold text-sm py-5 w-full text-left">
             Database
           </h2>
